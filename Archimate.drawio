@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.4">
   <diagram name="Trang-1" id="iqy74qv8kXAEl6PFAta8">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="q-WPEBUgiX6YEAzcUXQ2-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="720" width="720" x="40" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q-WPEBUgiX6YEAzcUXQ2-8" edge="1" parent="1" source="q-WPEBUgiX6YEAzcUXQ2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="q-WPEBUgiX6YEAzcUXQ2-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-WPEBUgiX6YEAzcUXQ2-6" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=role;archiType=oct;" value="Người tiêu dùng" vertex="1">
+          <mxGeometry height="75" width="150" x="110" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="q-WPEBUgiX6YEAzcUXQ2-7" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=driver;archiType=oct;" value="Niềm tin" vertex="1">
+          <mxGeometry height="75" width="150" x="110" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="q-WPEBUgiX6YEAzcUXQ2-11" edge="1" parent="1" source="q-WPEBUgiX6YEAzcUXQ2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="q-WPEBUgiX6YEAzcUXQ2-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-WPEBUgiX6YEAzcUXQ2-9" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=role;archiType=oct;" value="Doanh nghiệp" vertex="1">
+          <mxGeometry height="70" width="150" x="400" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="q-WPEBUgiX6YEAzcUXQ2-10" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=driver;archiType=oct;" value="Khả năng sản xuất" vertex="1">
+          <mxGeometry height="75" width="150" x="400" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="q-WPEBUgiX6YEAzcUXQ2-12" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=assess;archiType=oct;" value="Giấy tờ dễ làm giả&amp;nbsp;" vertex="1">
+          <mxGeometry height="75" width="150" x="400" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="q-WPEBUgiX6YEAzcUXQ2-13" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=assess;archiType=oct;" value="Nguồn gốc" vertex="1">
+          <mxGeometry height="75" width="150" x="110" y="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
