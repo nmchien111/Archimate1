@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Trang-1" id="iqy74qv8kXAEl6PFAta8">
-    <mxGraphModel dx="1678" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1501" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,60 @@
         </mxCell>
         <mxCell id="KWVw7QOln-yN_7eVovx_-34" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="Quản lý cửa hàng/ siêu thị" vertex="1">
           <mxGeometry height="75" width="150" x="240" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="KWVw7QOln-yN_7eVovx_-57" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=capability;archiType=rounded;" value="" vertex="1">
+          <mxGeometry height="110" width="180" x="1140" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="KWVw7QOln-yN_7eVovx_-58" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=capability;archiType=rounded;" value="Capability" vertex="1">
+          <mxGeometry height="120" width="180" x="1150" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="KWVw7QOln-yN_7eVovx_-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Quản lý canh tác" vertex="1">
+          <mxGeometry height="30" width="110" x="1181" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="KWVw7QOln-yN_7eVovx_-60" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=valueStream;archiType=rounded;" value="" vertex="1">
+          <mxGeometry height="140" width="1100" x="1110" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KWVw7QOln-yN_7eVovx_-61" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.valueStream;" value="Canh tác" vertex="1">
+          <mxGeometry height="60" width="120" x="1170" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KWVw7QOln-yN_7eVovx_-62" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.valueStream;" value="&amp;nbsp; &amp;nbsp;Thu hoạch" vertex="1">
+          <mxGeometry height="60" width="120" x="1389" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KWVw7QOln-yN_7eVovx_-63" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.valueStream;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;Vận chuyển" vertex="1">
+          <mxGeometry height="60" width="120" x="1609" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KWVw7QOln-yN_7eVovx_-64" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.valueStream;" value="&amp;nbsp;Phân phối" vertex="1">
+          <mxGeometry height="60" width="120" x="1829" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KWVw7QOln-yN_7eVovx_-65" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.valueStream;" value="Tiêu thụ" vertex="1">
+          <mxGeometry height="60" width="120" x="2049" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KWVw7QOln-yN_7eVovx_-66" edge="1" parent="1" source="KWVw7QOln-yN_7eVovx_-61" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=1;elbow=vertical;endFill=1;dashPattern=6 4;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1319" y="210" as="sourcePoint" />
+            <mxPoint x="1418" y="209.57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KWVw7QOln-yN_7eVovx_-67" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=1;elbow=vertical;endFill=1;dashPattern=6 4;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1509" y="210.43" as="sourcePoint" />
+            <mxPoint x="1637" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KWVw7QOln-yN_7eVovx_-68" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=1;elbow=vertical;endFill=1;dashPattern=6 4;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points">
+              <mxPoint x="1789" y="209.57" />
+            </Array>
+            <mxPoint x="1729" y="210" as="sourcePoint" />
+            <mxPoint x="1857" y="209.57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KWVw7QOln-yN_7eVovx_-69" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=1;elbow=vertical;endFill=1;dashPattern=6 4;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1949" y="210.43000000000006" as="sourcePoint" />
+            <mxPoint x="2077" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
