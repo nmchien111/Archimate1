@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Trang-1" id="iqy74qv8kXAEl6PFAta8">
-    <mxGraphModel dx="1501" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,7 +164,7 @@
           <mxGeometry height="90" width="200" x="810" y="2340" as="geometry" />
         </mxCell>
         <mxCell id="W2NUmls5c4AV71lWJdP--60" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="2057" width="1440" x="1180" y="1363" as="geometry" />
+          <mxGeometry height="2057" width="2920" x="1180" y="1363" as="geometry" />
         </mxCell>
         <mxCell id="W2NUmls5c4AV71lWJdP--61" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="Người tiêu dùng" vertex="1">
           <mxGeometry height="75" width="150" x="2230" y="1412.5" as="geometry" />
@@ -737,6 +737,21 @@
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-56" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" value="IoT Controller" vertex="1">
           <mxGeometry height="75" width="150" x="1800" y="3220" as="geometry" />
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-58" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="Nông dân" vertex="1">
+          <mxGeometry height="75" width="150" x="2930" y="2475" as="geometry" />
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-60" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;" value="Dịch vụ Đăng ký lô" vertex="1">
+          <mxGeometry height="75" width="150" x="3100" y="2690" as="geometry" />
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-61" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" value="Khởi tạo &amp;amp; định danh lô hàng" vertex="1">
+          <mxGeometry height="75" width="150" x="3270" y="2700" as="geometry" />
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-62" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=passive;archiType=square;" value="Lô hàng" vertex="1">
+          <mxGeometry height="75" width="150" x="3360" y="2840" as="geometry" />
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-63" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;" value="Người sản xuất" vertex="1">
+          <mxGeometry height="75" width="150" x="3232.5" y="2475" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
