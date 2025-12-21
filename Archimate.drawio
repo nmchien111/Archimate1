@@ -164,7 +164,7 @@
           <mxGeometry height="90" width="200" x="810" y="2340" as="geometry" />
         </mxCell>
         <mxCell id="W2NUmls5c4AV71lWJdP--60" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="1390" width="1360" x="1430" y="1330" as="geometry" />
+          <mxGeometry height="1390" width="1440" x="1350" y="1330" as="geometry" />
         </mxCell>
         <mxCell id="W2NUmls5c4AV71lWJdP--61" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="Người tiêu dùng" vertex="1">
           <mxGeometry height="75" width="150" x="2230" y="1412.5" as="geometry" />
