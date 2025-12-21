@@ -164,7 +164,7 @@
           <mxGeometry height="90" width="200" x="810" y="2340" as="geometry" />
         </mxCell>
         <mxCell id="W2NUmls5c4AV71lWJdP--60" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="1710" width="1440" x="1240" y="1360" as="geometry" />
+          <mxGeometry height="1710" width="1440" x="1270" y="1340" as="geometry" />
         </mxCell>
         <mxCell id="W2NUmls5c4AV71lWJdP--61" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="Người tiêu dùng" vertex="1">
           <mxGeometry height="75" width="150" x="2230" y="1412.5" as="geometry" />
@@ -562,19 +562,19 @@
           <mxGeometry height="75" width="150" x="2430" y="2220" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-8" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=passive;archiType=square;" value="Dữ liệu hành trình" vertex="1">
-          <mxGeometry height="75" width="150" x="2140" y="2385" as="geometry" />
+          <mxGeometry height="75" width="150" x="2140" y="2308" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-9" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;" value="Business Event" vertex="1">
-          <mxGeometry height="75" width="150" x="1860" y="2405" as="geometry" />
+          <mxGeometry height="75" width="150" x="1730" y="2285.5" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-10" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;" value="Phát hiện nhiệt độ &amp;gt; 10°C" vertex="1">
-          <mxGeometry height="75" width="150" x="2430" y="2400" as="geometry" />
+          <mxGeometry height="75" width="150" x="1560" y="2880" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-11" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="Nông dân" vertex="1">
           <mxGeometry height="75" width="150" x="1580" y="2233" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-12" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;" value="Người sản xuất" vertex="1">
-          <mxGeometry height="75" width="150" x="1580" y="2405" as="geometry" />
+          <mxGeometry height="75" width="150" x="1380" y="2280" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-13" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="Tài xế" vertex="1">
           <mxGeometry height="75" width="150" x="2050" y="2570" as="geometry" />
@@ -583,10 +583,10 @@
           <mxGeometry height="75" width="150" x="1800" y="2570" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-15" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" value="Thu thập dữ liệu cảm biến" vertex="1">
-          <mxGeometry height="75" width="150" x="1970" y="2270" as="geometry" />
+          <mxGeometry height="75" width="150" x="1470" y="2730" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-16" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" value="Phân tích &amp;amp; cảnh báo" vertex="1">
-          <mxGeometry height="75" width="150" x="1520" y="2540" as="geometry" />
+          <mxGeometry height="75" width="150" x="1800" y="2880" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-17" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" value="Màn hình giám sát" vertex="1">
           <mxGeometry height="75" width="150" x="2050" y="2720" as="geometry" />
@@ -603,8 +603,32 @@
             <mxPoint x="2180" y="2580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-20" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;" value="Giám sát&amp;nbsp;" vertex="1">
-          <mxGeometry height="75" width="150" x="1890" y="2490" as="geometry" />
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-20" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;" value="Giám sát chuỗi lạnh&amp;nbsp;" vertex="1">
+          <mxGeometry height="75" width="150" x="1800" y="2720" as="geometry" />
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-21" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="Quản lý kho" vertex="1">
+          <mxGeometry height="75" width="150" x="1800" y="2420" as="geometry" />
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-22" edge="1" parent="1" source="xLhdRNaFAmQlZ_ux-Lle-21" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="xLhdRNaFAmQlZ_ux-Lle-14" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="2120" y="2580" as="sourcePoint" />
+            <mxPoint x="2020" y="2580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-23" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" value="Cổng quản trị" vertex="1">
+          <mxGeometry height="75" width="150" x="1550" y="2420" as="geometry" />
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-24" edge="1" parent="1" source="xLhdRNaFAmQlZ_ux-Lle-23" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="xLhdRNaFAmQlZ_ux-Lle-21" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1870" y="2550" as="sourcePoint" />
+            <mxPoint x="2030" y="2550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-25" edge="1" parent="1" source="xLhdRNaFAmQlZ_ux-Lle-10" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=0;elbow=vertical;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="xLhdRNaFAmQlZ_ux-Lle-16" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1880" y="2720" as="sourcePoint" />
+            <mxPoint x="2040" y="2720" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
