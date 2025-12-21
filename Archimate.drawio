@@ -547,22 +547,22 @@
           <mxGeometry height="75" width="150" x="2440" y="2057.5" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-3" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" value="Kiểm định chất lượng" vertex="1">
-          <mxGeometry height="75" width="150" x="2150" y="2065" as="geometry" />
+          <mxGeometry height="75" width="150" x="2160" y="2057.5" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-4" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" value="Phân phối &amp;amp; bán lẻ" vertex="1">
-          <mxGeometry height="75" width="150" x="2160" y="2220" as="geometry" />
+          <mxGeometry height="75" width="150" x="2160" y="2210" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-5" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" value="Canh tác &amp;amp; ghi nhật ký" vertex="1">
-          <mxGeometry height="75" width="150" x="1860" y="2065" as="geometry" />
+          <mxGeometry height="75" width="150" x="1890" y="2065" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-6" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=passive;archiType=square;" value="Biên bản kiểm định" vertex="1">
-          <mxGeometry height="75" width="150" x="1860" y="2220" as="geometry" />
+          <mxGeometry height="75" width="150" x="1890" y="2210" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-7" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=passive;archiType=square;" value="Thông tin lô hàng" vertex="1">
-          <mxGeometry height="75" width="150" x="2430" y="2220" as="geometry" />
+          <mxGeometry height="75" width="150" x="2440" y="2210" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-8" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=passive;archiType=square;" value="Dữ liệu hành trình" vertex="1">
-          <mxGeometry height="75" width="150" x="2140" y="2308" as="geometry" />
+          <mxGeometry height="75" width="150" x="1380" y="2355" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-9" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;" value="Business Event" vertex="1">
           <mxGeometry height="75" width="150" x="1380" y="2070" as="geometry" />
@@ -571,10 +571,10 @@
           <mxGeometry height="75" width="150" x="2070" y="2890" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-11" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="Nông dân" vertex="1">
-          <mxGeometry height="75" width="150" x="1640" y="2230" as="geometry" />
+          <mxGeometry height="75" width="150" x="1640" y="2210" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-12" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;" value="Người sản xuất" vertex="1">
-          <mxGeometry height="75" width="150" x="1380" y="2233" as="geometry" />
+          <mxGeometry height="75" width="150" x="1380" y="2210" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-13" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="Tài xế" vertex="1">
           <mxGeometry height="75" width="150" x="2068" y="2570" as="geometry" />
