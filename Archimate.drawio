@@ -526,7 +526,19 @@
           <mxGeometry height="110" width="205" x="3792.5" y="1627.5" as="geometry" />
         </mxCell>
         <mxCell id="KKklXZDqdsRzUoqzg-6W-166" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Buôn bán hàng hóa&lt;/font&gt;" vertex="1">
-          <mxGeometry height="110" width="205" x="3710" y="1790" as="geometry" />
+          <mxGeometry height="110" width="205" x="3730" y="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-168" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=amValue;archiType=oct;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Dữ liệu tin cậy &amp;amp; Chống giả mạo&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="3542.5" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-169" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=amValue;archiType=oct;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Chứng thực dễ dàng&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="3542.5" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-170" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=amValue;archiType=oct;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Giám sát chất lượng thời gian thực&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="3542.5" y="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-171" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Tự phục vụ&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="3792.5" y="1140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
