@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Trang-1" id="iqy74qv8kXAEl6PFAta8">
     <mxGraphModel dx="2037" dy="2230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -426,8 +426,107 @@
             <mxPoint x="2569.5" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2NUmls5c4AV71lWJdP--123" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="1190" width="1060" x="2895" y="1330" as="geometry" />
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-116" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="176" width="700" x="2980" y="1760" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-117" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="670" width="290" x="2980" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-122" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="250" x="3270" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-123" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="310" width="250" x="3270" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-124" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="670" width="250" x="3520" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-126" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="420" width="250" x="3770" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-127" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="310" width="250" x="3770" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-128" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="176" width="590" x="3680" y="1760" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="670" width="250" x="4020" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-130" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Key Partnerships&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="2970" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-131" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span id=&quot;docs-internal-guid-a8b2295f-7fff-4eb3-5631-db1a68cab3b5&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Key Activities&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="3250" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-132" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Channels&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="3740" y="1457.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-133" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Customer Segments&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="4020" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-134" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Customer Relationships&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="3770" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-135" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Value Propositions&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="3520" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-136" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Key Resources&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="3260" y="1457.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-137" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Cost Structure&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="2970" y="1760" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-138" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Revenue Streams&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="3670" y="1760" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-139" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Đơn vị vận chuyển&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="3022.5" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-140" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Đơn vị kiểm định chất lượng&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="3022.5" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-141" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Nhà cung cấp thiết bị IoT&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="3022.5" y="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-145" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Xử lý dữ liệu IoT&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="3292.5" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-147" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Ghi nhận sự kiện&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="3292.5" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-150" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=resource;archiType=square;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Hạ tầng công nghệ&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="3292.5" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-151" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=resource;archiType=square;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Dữ liệu&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="3292.5" y="1627.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-156" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFF99;shape=mxgraph.archimate3.application;appType=generic;archiType=square;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Chi phí hạ tầng&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="3460" y="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-157" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFF99;shape=mxgraph.archimate3.application;appType=generic;archiType=square;strokeColor=#000000;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Chi phí phát triển &amp;amp; vận hành&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="3010" y="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-158" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFF99;shape=mxgraph.archimate3.application;appType=generic;archiType=square;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Chi phí thiết bị&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="3232.5" y="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-159" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Người tiêu dùng&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="4042.5" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-160" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Đơn vị bán lẻ&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="4042.5" y="1302.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-161" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Doanh nghiệp nông nghiệp&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="4042.5" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-162" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Cổng doanh nghiệp&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="3792.5" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-164" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;QR Scanner&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="3792.5" y="1627.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KKklXZDqdsRzUoqzg-6W-166" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Buôn bán hàng hóa&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="205" x="3710" y="1790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
