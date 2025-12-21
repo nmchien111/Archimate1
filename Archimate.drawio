@@ -164,7 +164,7 @@
           <mxGeometry height="90" width="200" x="810" y="2340" as="geometry" />
         </mxCell>
         <mxCell id="W2NUmls5c4AV71lWJdP--60" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="1710" width="1440" x="1270" y="1340" as="geometry" />
+          <mxGeometry height="1920" width="1440" x="1180" y="1363" as="geometry" />
         </mxCell>
         <mxCell id="W2NUmls5c4AV71lWJdP--61" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="Người tiêu dùng" vertex="1">
           <mxGeometry height="75" width="150" x="2230" y="1412.5" as="geometry" />
@@ -541,7 +541,7 @@
           <mxGeometry height="110" width="205" x="3792.5" y="1140" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-1" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" value="Thu hoạch &amp;amp; đóng gói" vertex="1">
-          <mxGeometry height="75" width="150" x="1580" y="2070" as="geometry" />
+          <mxGeometry height="75" width="150" x="1640" y="2070" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-2" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" value="Vận chuyển lạnh" vertex="1">
           <mxGeometry height="75" width="150" x="2440" y="2057.5" as="geometry" />
@@ -565,31 +565,31 @@
           <mxGeometry height="75" width="150" x="2140" y="2308" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-9" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;" value="Business Event" vertex="1">
-          <mxGeometry height="75" width="150" x="1730" y="2285.5" as="geometry" />
+          <mxGeometry height="75" width="150" x="1380" y="2070" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-10" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;" value="Phát hiện nhiệt độ &amp;gt; 10°C" vertex="1">
-          <mxGeometry height="75" width="150" x="1560" y="2880" as="geometry" />
+          <mxGeometry height="75" width="150" x="2068" y="2890" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-11" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="Nông dân" vertex="1">
-          <mxGeometry height="75" width="150" x="1580" y="2233" as="geometry" />
+          <mxGeometry height="75" width="150" x="1640" y="2230" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-12" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;" value="Người sản xuất" vertex="1">
-          <mxGeometry height="75" width="150" x="1380" y="2280" as="geometry" />
+          <mxGeometry height="75" width="150" x="1380" y="2233" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-13" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="Tài xế" vertex="1">
-          <mxGeometry height="75" width="150" x="2050" y="2570" as="geometry" />
+          <mxGeometry height="75" width="150" x="2068" y="2570" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-14" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;" value="Giám sát" vertex="1">
           <mxGeometry height="75" width="150" x="1800" y="2570" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-15" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" value="Thu thập dữ liệu cảm biến" vertex="1">
-          <mxGeometry height="75" width="150" x="1470" y="2730" as="geometry" />
+          <mxGeometry height="75" width="150" x="1800" y="3060" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-16" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" value="Phân tích &amp;amp; cảnh báo" vertex="1">
-          <mxGeometry height="75" width="150" x="1800" y="2880" as="geometry" />
+          <mxGeometry height="75" width="150" x="1800" y="2890" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-17" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" value="Màn hình giám sát" vertex="1">
-          <mxGeometry height="75" width="150" x="2050" y="2720" as="geometry" />
+          <mxGeometry height="75" width="150" x="2068" y="2720" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-18" edge="1" parent="1" source="xLhdRNaFAmQlZ_ux-Lle-17" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="xLhdRNaFAmQlZ_ux-Lle-13" value="">
           <mxGeometry relative="1" width="160" as="geometry">
@@ -624,10 +624,67 @@
             <mxPoint x="2030" y="2550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-25" edge="1" parent="1" source="xLhdRNaFAmQlZ_ux-Lle-10" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=0;elbow=vertical;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="xLhdRNaFAmQlZ_ux-Lle-16" value="">
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-26" edge="1" parent="1" source="xLhdRNaFAmQlZ_ux-Lle-15" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=1;elbow=vertical;endFill=1;dashPattern=6 4;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="xLhdRNaFAmQlZ_ux-Lle-16" value="">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="1880" y="2720" as="sourcePoint" />
-            <mxPoint x="2040" y="2720" as="targetPoint" />
+            <mxPoint x="1790" y="2830" as="sourcePoint" />
+            <mxPoint x="1950" y="2830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-27" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;" value="Định kỳ 5 phút" vertex="1">
+          <mxGeometry height="75" width="150" x="1560" y="3060" as="geometry" />
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-28" edge="1" parent="1" source="xLhdRNaFAmQlZ_ux-Lle-27" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=0;elbow=vertical;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="xLhdRNaFAmQlZ_ux-Lle-15" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1790" y="2970" as="sourcePoint" />
+            <mxPoint x="1950" y="2970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-29" edge="1" parent="1" source="xLhdRNaFAmQlZ_ux-Lle-16" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="xLhdRNaFAmQlZ_ux-Lle-20" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1790" y="2880" as="sourcePoint" />
+            <mxPoint x="1950" y="2880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-30" edge="1" parent="1" source="xLhdRNaFAmQlZ_ux-Lle-20" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="xLhdRNaFAmQlZ_ux-Lle-14" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1790" y="2620" as="sourcePoint" />
+            <mxPoint x="1950" y="2620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-31" edge="1" parent="1" source="xLhdRNaFAmQlZ_ux-Lle-17" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="xLhdRNaFAmQlZ_ux-Lle-20" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1790" y="2710" as="sourcePoint" />
+            <mxPoint x="1950" y="2710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-32" edge="1" parent="1" source="xLhdRNaFAmQlZ_ux-Lle-10" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=0;elbow=vertical;endFill=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="xLhdRNaFAmQlZ_ux-Lle-16" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1790" y="2880" as="sourcePoint" />
+            <mxPoint x="1950" y="2880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-33" edge="1" parent="1" source="xLhdRNaFAmQlZ_ux-Lle-23" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;elbow=vertical;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="xLhdRNaFAmQlZ_ux-Lle-20" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points">
+              <mxPoint x="1630" y="2758" />
+            </Array>
+            <mxPoint x="1620" y="2520" as="sourcePoint" />
+            <mxPoint x="1800" y="2772.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-34" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=passive;archiType=square;" value="Nhật ký nhiệt độ" vertex="1">
+          <mxGeometry height="75" width="150" x="2070" y="3060" as="geometry" />
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-35" edge="1" parent="1" source="xLhdRNaFAmQlZ_ux-Lle-15" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=0;dashed=1;dashPattern=1 4;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="xLhdRNaFAmQlZ_ux-Lle-34" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1790" y="2880" as="sourcePoint" />
+            <mxPoint x="1950" y="2880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLhdRNaFAmQlZ_ux-Lle-36" edge="1" parent="1" source="xLhdRNaFAmQlZ_ux-Lle-10" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=0;dashed=1;dashPattern=1 4;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="xLhdRNaFAmQlZ_ux-Lle-34" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1790" y="2880" as="sourcePoint" />
+            <mxPoint x="1950" y="2880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
