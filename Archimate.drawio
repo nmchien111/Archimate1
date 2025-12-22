@@ -748,7 +748,7 @@
           <mxGeometry height="75" width="150" x="3227.5" y="2825" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-62" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=passive;archiType=square;" value="Lô hàng" vertex="1">
-          <mxGeometry height="75" width="150" x="3515" y="2870" as="geometry" />
+          <mxGeometry height="75" width="150" x="3542.5" y="2825" as="geometry" />
         </mxCell>
         <mxCell id="xLhdRNaFAmQlZ_ux-Lle-63" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;" value="Người sản xuất" vertex="1">
           <mxGeometry height="75" width="150" x="3232.5" y="2475" as="geometry" />
