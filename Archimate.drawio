@@ -164,7 +164,7 @@
           <mxGeometry height="90" width="200" x="810" y="2340" as="geometry" />
         </mxCell>
         <mxCell id="W2NUmls5c4AV71lWJdP--60" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="2057" width="2920" x="1180" y="1370" as="geometry" />
+          <mxGeometry height="2057" width="2920" x="1190" y="1370" as="geometry" />
         </mxCell>
         <mxCell id="W2NUmls5c4AV71lWJdP--61" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" value="Người tiêu dùng" vertex="1">
           <mxGeometry height="75" width="150" x="2230" y="1412.5" as="geometry" />
@@ -1948,6 +1948,12 @@
             </Array>
             <mxPoint x="1560" y="120" as="sourcePoint" />
             <mxPoint x="1610" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X8xJRykpv9gmLuwqfHPT-3" edge="1" parent="1" source="xLhdRNaFAmQlZ_ux-Lle-60" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="xLhdRNaFAmQlZ_ux-Lle-63" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="3040" y="2800" as="sourcePoint" />
+            <mxPoint x="3200" y="2800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
