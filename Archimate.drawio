@@ -1956,6 +1956,9 @@
             <mxPoint x="3200" y="2800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="X8xJRykpv9gmLuwqfHPT-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="write" vertex="1">
+          <mxGeometry height="30" width="60" x="3490" y="3010" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
