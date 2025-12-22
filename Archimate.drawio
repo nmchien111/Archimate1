@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Trang-1" id="iqy74qv8kXAEl6PFAta8">
-    <mxGraphModel dx="1426" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="2043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -806,6 +806,12 @@
             <mxPoint x="3190" y="2940" as="sourcePoint" />
             <mxPoint x="3350" y="2940" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="efpljqQ1BTTlx0B6eWzg-1" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.valueStream;" value="Sơ chế &amp;amp; kiểm định" vertex="1">
+          <mxGeometry height="110" width="200" x="2140" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="efpljqQ1BTTlx0B6eWzg-2" parent="1" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="250" width="765" x="3215" y="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
