@@ -1602,6 +1602,9 @@
         <mxCell id="efpljqQ1BTTlx0B6eWzg-238" parent="efpljqQ1BTTlx0B6eWzg-231" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" value="Nhập mã lô hàng và Lệnh thu hồi" vertex="1">
           <mxGeometry height="80" width="120" x="190" y="80" as="geometry" />
         </mxCell>
+        <mxCell id="efpljqQ1BTTlx0B6eWzg-251" parent="efpljqQ1BTTlx0B6eWzg-231" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="Gửi báo cáo tồn kho" vertex="1">
+          <mxGeometry height="80" width="120" x="1070" y="74" as="geometry" />
+        </mxCell>
         <mxCell id="efpljqQ1BTTlx0B6eWzg-228" parent="efpljqQ1BTTlx0B6eWzg-227" style="swimlane;html=1;startSize=20;horizontal=0;" value="Hệ thống" vertex="1">
           <mxGeometry height="220" width="1430" x="20" y="240" as="geometry" />
         </mxCell>
@@ -1633,7 +1636,7 @@
           <mxGeometry height="80" width="120" x="820" y="60" as="geometry" />
         </mxCell>
         <mxCell id="efpljqQ1BTTlx0B6eWzg-249" parent="efpljqQ1BTTlx0B6eWzg-230" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" value="Xác nhận số lượng tồn kho thực tế lên hệ thống" vertex="1">
-          <mxGeometry height="80" width="120" x="1030" y="60" as="geometry" />
+          <mxGeometry height="80" width="120" x="1070" y="60" as="geometry" />
         </mxCell>
         <mxCell id="efpljqQ1BTTlx0B6eWzg-250" edge="1" parent="efpljqQ1BTTlx0B6eWzg-230" source="efpljqQ1BTTlx0B6eWzg-247" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="efpljqQ1BTTlx0B6eWzg-249" value="">
           <mxGeometry relative="1" width="160" as="geometry">
